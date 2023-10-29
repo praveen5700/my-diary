@@ -82,7 +82,7 @@ class _BookState extends State<Book> {
               ),
 
 
-            //Below is the size box inside which card is placed
+            //Below is the size box inside which the card is placed
               SizedBox(
                
                 height: 310,
